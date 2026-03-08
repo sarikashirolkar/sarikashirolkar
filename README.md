@@ -33,13 +33,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,mysql,mongodb,linux,azure,git,vscode&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=ff4fa3" />
-  <img src="https://img.shields.io/badge/YOLO-2a0020?style=flat-square&logo=opencv&logoColor=ff5dae" />
-  <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=ff2f92" />
-  <img src="https://img.shields.io/badge/Power%20BI-1a0014?style=flat-square&logo=powerbi&logoColor=ff7fc0" />
-  <img src="https://img.shields.io/badge/SQL-140014?style=flat-square&logo=postgresql&logoColor=ff92ca" />
-</p>
 
 ### Featured Projects
 - [**Portfolio-Sarika**](https://github.com/sarikashirolkar/Portfolio-Sarika) - Personal portfolio with AI assistant integration.
