@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sarika%20S%20Shirolkar&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Agents%20%7C%20ML%20Systems%20%7C%20Cloud&descAlignY=58&color=0:0ea5e9,35:14b8a6,70:22c55e,100:16a34a&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Sarika%20S%20Shirolkar&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Agents%20%7C%20ML%20Systems%20%7C%20Cloud&descAlignY=60&color=0:000000,35:140014,70:4b0039,100:ff2f92&fontColor=ffd6ee" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=900&lines=Building+practical+AI+agents+for+real-world+workflows;Designing+ML+systems+from+data+to+deployment;Shipping+cloud-ready+applications+on+Azure" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=950&color=FF5DAE&lines=Building+practical+AI+agents+for+real-world+workflows;Designing+ML+systems+from+data+to+deployment;Shipping+cloud-ready+applications+on+Azure" alt="Typing intro" />
 
 <p>
-  <a href="mailto:sarikashirolkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sarikashirolkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://sarikashirolkar.github.io/Portfolio-Sarika/"><img src="https://img.shields.io/badge/Portfolio-Visit-16a34a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sarikashirolkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff2f92?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/sarikashirolkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ff2f92" /></a>
+  <a href="https://sarikashirolkar.github.io/Portfolio-Sarika/"><img src="https://img.shields.io/badge/Portfolio-Visit-2a0020?style=for-the-badge&logo=vercel&logoColor=ff7fc0" /></a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dcfce7,100:dbeafe&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2f92,100:000000&height=3&section=header" width="100%"/>
 
 ### About Me
 - Software Engineer focused on practical **AI agents**, **ML systems**, and **cloud-ready applications**.
@@ -31,14 +31,14 @@
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,mysql,mongodb,linux,azure,git,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,mysql,mongodb,linux,azure,git,vscode&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-22c55e?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-0ea5e9?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-14b8a6?style=flat-square&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-16a34a?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=chainlink&logoColor=ff4fa3" />
+  <img src="https://img.shields.io/badge/YOLO-2a0020?style=flat-square&logo=opencv&logoColor=ff5dae" />
+  <img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=ff2f92" />
+  <img src="https://img.shields.io/badge/Power%20BI-1a0014?style=flat-square&logo=powerbi&logoColor=ff7fc0" />
+  <img src="https://img.shields.io/badge/SQL-140014?style=flat-square&logo=postgresql&logoColor=ff92ca" />
 </p>
 
 ### Featured Projects
@@ -54,6 +54,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Open%20to%20AI%20%2B%20ML%20collaborations&fontSize=26&fontColor=ffffff&color=0:0ea5e9,50:14b8a6,100:16a34a" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Open%20to%20AI%20%2B%20ML%20collaborations&fontSize=26&fontColor=ffd6ee&color=0:000000,55:2a0020,100:ff2f92" width="100%" />
 
 </div>
