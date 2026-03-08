@@ -46,15 +46,6 @@
 - [**appointo.ai**](https://github.com/sarikashirolkar/appointo.ai) - AI/automation-focused project work.
 - [**AI-Research-Agent**](https://github.com/sarikashirolkar/ai-website) - Agentic research and structured output workflows.
 
-### GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sarikashirolkar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarikashirolkar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=sarikashirolkar&theme=tokyonight&hide_border=true" />
-</p>
-
 ### Leadership & Community
 - First author of an IEEE conference paper.
 - Chair, IEEE CIS SVIT - conducted workshops, hackathons, and peer mentoring.
