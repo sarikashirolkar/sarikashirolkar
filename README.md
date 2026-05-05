@@ -7,7 +7,7 @@
 <p>
   <a href="mailto:sarikashirolkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ff2f92?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
   <a href="https://www.linkedin.com/in/sarikashirolkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ff2f92" /></a>
-  <a href="https://sarikashirolkar.github.io/Portfolio-Sarika/"><img src="https://img.shields.io/badge/Portfolio-Visit-2a0020?style=for-the-badge&logo=vercel&logoColor=ff7fc0" /></a>
+  <a href="https://sarika.aiworkflowautomate.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-2a0020?style=for-the-badge&logo=vercel&logoColor=ff7fc0" /></a>
 </p>
 
 </div>
@@ -35,7 +35,7 @@
 </p>
 
 ### Featured Projects
-- [**Portfolio-Sarika**](https://github.com/sarikashirolkar/Portfolio-Sarika) - Personal portfolio with AI assistant integration.
+- [**Portfolio-Sarika**](https://sarika.aiworkflowautomate.com/) - Personal portfolio with AI assistant integration.
 - [**AI-Powered-Code-Review-Assistant**](https://github.com/sarikashirolkar/AI-Powered-Code-Review-Assistant) - LLM-assisted code review workflows.
 - [**DAWNVision**](https://github.com/sarikashirolkar/DAWNVision) - Applied computer vision project.
 - [**appointo.ai**](https://github.com/sarikashirolkar/appointo.ai) - AI/automation-focused project work.
